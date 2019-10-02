@@ -1,0 +1,27 @@
+# INFO-201 Demo
+## 1. My favorite foods:
+- ice-cream
+  - vanilla
+  - chocolate
+- Hotpot
+
+## 2. Code
+### My code
+```
+t <- 10
+s <- 10
+x <- t * s
+```
+
+### java Code
+``` java
+  System.out.println("Hello, World!");
+```
+
+## 3. Picture Insertion
+![picture](image.png)
+
+## 4. Emoji
+:+1:
+:-1:
+:heart:
